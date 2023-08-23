@@ -1,0 +1,21 @@
+body{
+  background-image: url('../images/spla.avif');
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.booking{
+  max-width: 400px;
+  margin: 8px auto;
+  padding: 20px;
+  background-color: grey;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h2{
+  text-align: center;
+}
